@@ -2,6 +2,7 @@
 requairments:python3 , imageio library and numpy library
 
 ```pip install imageio```
+```pip install numpy```
 
 you should run code with Terminal or CMD with argument:
 
