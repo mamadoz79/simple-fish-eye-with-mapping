@@ -1,5 +1,5 @@
 # simple-fish-eye-with-mapping
-requairments: python3 , imageio library and numpy library
+requirements: python3 , imageio library and numpy library
 
 ```pip install imageio```
 ```pip install numpy```
